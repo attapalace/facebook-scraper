@@ -1,0 +1,8 @@
+.facebook.com	false	/	true	0	spin	r.1004076216_b.trunk_t.1625399501_s.1_v.2_
+.facebook.com	false	/	true	0	dpr	2
+.facebook.com	false	/	true	0	datr	CaDhYMGVJUpWKLLe9KSWkBY_
+.facebook.com	false	/	true	0	wd	1280x690
+.facebook.com	false	/	true	0	sb	CaDhYHFF9sjCPo-EfKNAeMMB
+.facebook.com	false	/	true	0	c_user	504646996
+.facebook.com	false	/	true	0	xs	4%3AxAPZwgAEBBrZEQ%3A2%3A1625399497%3A-1%3A6556
+.facebook.com	false	/	true	0	fr	1kugyAOdWTddI1cGZ.AWVWs_jWXRq6c8jxq66RHmIF2RM.Bg4aAJ.-7.AAA.0.0.Bg4aDF.AWWwmKLTDqg
